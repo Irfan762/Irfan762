@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Location-Pune%2C_India-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/🎓_CGPA-8.83%2F10-00FF87?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🎓_CGPA-8.88%2F10-00FF87?style=for-the-badge&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/💼_Role-Software_Engineer-FF6B9D?style=for-the-badge&labelColor=1a1a2e" />
 </p>
 
