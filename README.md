@@ -62,39 +62,6 @@ I'm a passionate software engineer specializing in building scalable web applica
 
 ---
 
-## 🚀 Featured Projects
-
-### [GoFarm](https://github.com/irfan762/gofarm) - AI-Powered Farmer Marketplace
-**Tech Stack:** PHP, MySQL, JavaScript, AI/ML
-
-A comprehensive marketplace platform connecting farmers, buyers, and service providers with AI-powered crop disease detection.
-
-- ✅ Role-based authentication system for multiple user types
-- ✅ AI disease detection with 95% accuracy
-- ✅ Managed 200+ active listings
-- ✅ Increased agricultural resource reuse by 30%
-
-### [FinTrade](https://github.com/irfan762/fintrade) - Stock Trading Simulator
-**Tech Stack:** React.js, Node.js, MongoDB
-
-A Zerodha-inspired stock trading simulation platform for learning investment strategies.
-
-- ✅ Real-time portfolio tracking and analytics
-- ✅ Secure user authentication and authorization
-- ✅ Investment performance visualization
-- ✅ Paper trading functionality for risk-free learning
-
-### [Wanderlust](https://github.com/irfan762/wanderlust) - Travel Booking Platform
-**Tech Stack:** Node.js, Express.js, MongoDB, EJS
-
-A full-featured travel booking platform with property listings and user reviews.
-
-- ✅ 100+ property listings with detailed information
-- ✅ Implemented 8+ RESTful APIs
-- ✅ Passport.js authentication system
-- ✅ Dynamic templating with EJS
-
----
 
 ## 📊 GitHub Statistics
 
