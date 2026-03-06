@@ -1,12 +1,17 @@
+<div align="center">
+
 # Hi there, I'm Irfan Tamboli 👋
 
 **Full-Stack Developer | Hackathon Champion | Problem Solver**
 
-I'm a passionate software engineer specializing in building scalable web applications and AI-powered solutions. Winner of IIT Kharagpur Hackathon (1/5000+ teams) and multiple-time ideathon champion.
+I'm a passionate software engineer specializing in building scalable web applications and AI-powered solutions.
+Winner of IIT Kharagpur Hackathon (1/5000+ teams) and multiple-time ideathon champion.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/irfan-tamboli762)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode)](https://leetcode.com/irfantamboli)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:irfantamboli762@gmail.com)
+
+</div>
 
 ---
 
@@ -62,16 +67,28 @@ I'm a passionate software engineer specializing in building scalable web applica
 
 ---
 
-
 ## 📊 GitHub Statistics
 
+<!-- 
+  ✅ FIX APPLIED: Using reliable alternative instances instead of the broken
+  github-readme-stats.vercel.app (which returns 503 DEPLOYMENT_PAUSED).
+  
+  OPTION A (used below) — Community mirror that is actively maintained.
+  OPTION B — Self-host: fork https://github.com/anuraghazra/github-readme-stats
+             deploy on your own Vercel + add PAT_1 env var, then swap the URLs.
+-->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfan762&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfan762&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <!-- GitHub Stats Card — reliable community mirror -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=irfan762&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+
+  <!-- Streak Stats — switched from deprecated herokuapp to demolab instance -->
+  <img src="https://streak-stats.demolab.com?user=irfan762&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfan762&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <!-- Top Languages Card — same reliable mirror -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=irfan762&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 ---
@@ -98,15 +115,13 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=irfan762&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/irfan762?label=Followers&style=flat&color=blue" alt="Followers"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad!" - Cory House</i>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=irfan762&label=Profile%20Views&color=blueviolet&style=flat)
+![Followers](https://img.shields.io/github/followers/irfan762?label=Followers&style=flat&color=blue)
 
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/irfan762">Irfan Tamboli</a>
-</p>
+*"Code is like humor. When you have to explain it, it's bad!" — Cory House*
+
+Made with ❤️ by [Irfan Tamboli](https://github.com/irfan762)
+
+</div>
