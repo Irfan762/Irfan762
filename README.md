@@ -22,6 +22,7 @@ Winner of IIT Kharagpur Hackathon (1/5000+ teams) and multiple-time ideathon cha
 - 💼 Open to **Software Engineering** opportunities and collaborations
 - 🌱 Currently exploring **Three.js**, **Machine Learning**, and **Advanced DSA**
 - 📫 Reach me: **irfantamboli762@gmail.com**
+-   💻 **Mobile no** - 8010204669
 
 ---
 
@@ -33,7 +34,6 @@ Winner of IIT Kharagpur Hackathon (1/5000+ teams) and multiple-time ideathon cha
 - 👔 **Training & Placement Coordinator** - Managed placement activities for 2000+ students, achieved 85% placement rate
 - 🎯 **Campus Ambassador** - Unstop & IIT Bombay E-Cell (boosted participation by 15%)
 - 💻 **LeetCode Enthusiast** - Solved 200+ problems in C++
-- - 💻 **Mobile no** - Solved 200+ problems in C++
 
 ---
 
