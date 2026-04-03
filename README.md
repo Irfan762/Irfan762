@@ -2,7 +2,7 @@
 
 # Hi there, I'm Irfan Tamboli 👋
 
-**Full-Stack Developer | Hackathon Champion |**
+**Full-Stack Developer | Hackathon Champion **
 
 I'm a passionate software engineer specializing in building scalable web applications and AI-powered solutions.
 Winner of IIT Kharagpur Hackathon (1/5000+ teams) and multiple-time ideathon champion.
@@ -30,7 +30,7 @@ Winner of IIT Kharagpur Hackathon (1/5000+ teams) and multiple-time ideathon cha
 - 🥈 **VNIT Hackathon Finalist** - Top 10 among 1500+ teams
 - 🏆 **4× Ideathon Champion** - Consistent innovation across multiple competitions
 - 👔 **Training & Placement Coordinator** - Managed placement activities for 2000+ students, achieved 85% placement rate
-- 🎯 **Campus Ambassador** - Unstop & IIT Bombay E-Cell (boosted participation by 15%)
+- 🎯 **Campus Ambassador** - Unstop & IIT Bombay E-Cell (boosted participation by 15%),intershaala
 ---
 
 ## 💻 Technical Skills
