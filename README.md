@@ -22,7 +22,7 @@ Winner of IIT Kharagpur Hackathon (1/5000+ teams) and multiple-time ideathon cha
 - 💼 Open to **Software Engineering** opportunities and collaborations
 - 🌱 Currently exploring  **Machine Learning**, and **Advanced DSA**
 - 📫 Reach me: **irfantamboli762@gmail.com**
----
+
 
 ## 🏆 Key Achievements
 
