@@ -96,7 +96,7 @@ Winner of IIT Kharagpur Hackathon (1/5000+ teams) and multiple-time ideathon cha
 - **C++ Programming** - Professional Certification
 - **Python for Data Science** - IBM
 - **Linux Fundamentals** - Linux Foundation
-- **ESG (Environmental, Social, and Governance)** - Professional Course
+
 
 ---
 
