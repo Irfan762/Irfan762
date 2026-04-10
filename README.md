@@ -92,9 +92,9 @@ Winner of IIT Kharagpur Hackathon (1/5000+ teams) and multiple-time ideathon cha
 
 ## 📜 Certifications
 
-- **Generative AI with Large Language Models** - Coursera
+- **Generative AI with Large Language Models** 
 - **C++ Programming** - Professional Certification
-- **Python for Data Science** - IBM
+- **Python for Data Science** 
 - **Linux Fundamentals** - Linux Foundation
 
 
