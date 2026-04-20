@@ -92,7 +92,6 @@ Winner of IIT Kharagpur Hackathon (1/5000+ teams) and multiple-time ideathon cha
 
 ## 📜 Certifications
 
-- **Generative AI with Large Language Models** 
 - **C++ Programming** - Professional Certification
 - **Python** 
 - **Linux Fundamentals** - Linux Foundation
