@@ -19,10 +19,9 @@ Winner of IIT Kharagpur Hackathon (1/5000+ teams) and multiple-time ideathon cha
 
 - 🎓 **B.Tech in Information Technology** @ JSPM-RSCOE Pune (CGPA: 8.83/10.0)
 - 📍 Based in **Pune, Maharashtra, India**
-- 💼 Open to **Software Engineering** opportunities and collaborations
+- 💼 Open to **Software Engineering** opportunities
 - 🌱 Currently exploring  **Machine Learning**, and **Advanced DSA**
 - 📫 Reach me: **irfantamboli762@gmail.com**
-
 
 ## 🏆 Key Achievements
 
@@ -95,8 +94,6 @@ Winner of IIT Kharagpur Hackathon (1/5000+ teams) and multiple-time ideathon cha
 - **C++ Programming** - Professional Certification
 - **Python** 
 - **Linux Fundamentals** - Linux Foundation
-
-
 ---
 
 ## 🤝 Let's Connect
