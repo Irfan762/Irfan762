@@ -87,14 +87,6 @@ Winner of IIT Kharagpur Hackathon (1/5000+ teams) and multiple-time ideathon cha
 </p>
 
 ---
-
-## 📜 Certifications
-
-- **C++ Programming** - Professional Certification
-- **Python** 
-- **Linux Fundamentals** - Linux Foundation
----
-
 ## 🤝 Let's Connect
 
 I'm always open to interesting conversations, collaboration opportunities, and new challenges!
