@@ -2,7 +2,7 @@
 
 # Hi there, I'm Irfan Tamboli 👋
 
-**Full-Stack Developer | Hackathon Champion **
+**Full-Stack Developer**
 
 I'm a passionate software engineer specializing in building scalable web applications and AI-powered solutions.
 Winner of IIT Kharagpur Hackathon (1/5000+ teams) and multiple-time ideathon champion.
