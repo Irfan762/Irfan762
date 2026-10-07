@@ -7,7 +7,7 @@
 I'm a passionate software engineer specializing in building scalable web applications and AI-powered solutions.
 Winner of IIT Kharagpur Hackathon (1/5000+ teams) and multiple-time ideathon champion.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/irfan-tamboli762)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/irfan-tamboli)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode)](https://leetcode.com/irfantamboli)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:irfantamboli762@gmail.com)
 
